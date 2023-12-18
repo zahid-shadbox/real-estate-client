@@ -1,8 +1,10 @@
-
+import Header from "./components/Header/Header"
+import Hero from "./components/Hero/Hero"
 const App = () => {
   return (
-    <div><span>Deployed the first commit to the web 😎🎉🥳</span>
-    <p>Hi Jayshri 😍</p>
+    <div className="App">
+    <Header/>
+    <Hero/>
     </div>
   )
 }
