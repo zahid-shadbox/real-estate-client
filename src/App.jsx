@@ -1,8 +1,7 @@
-import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div><span>Deployed the first commit to the web 😎🎉🥳</span></div>
   )
 }
 
