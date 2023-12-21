@@ -19,10 +19,12 @@ const App = () => {
     <Companies/>
        <Residencies/>
        <Value/>
-       {/*
+     
       <Contact/>
+     
       <GetStarted/>
-  <Footer/>*/}
+       
+  <Footer/>
     </div>
   );
 };
