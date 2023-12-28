@@ -14,17 +14,6 @@ const Website = () => {
         <div className="white-gradient" />
         <Hero />
       </div>
-      <div>
-      <button style={{backgroundColor:"lightgreen", padding:"10px"}}>
-      <a
-      href={`https://wa.me/${919623691157}`}
-      target="_blank"
-      rel="noopener noreferrer"
-      >
-      Whatsapp
-      </a>
-      </button>
-      </div>
       <Companies/>
       <Residencies />
       <Value />
